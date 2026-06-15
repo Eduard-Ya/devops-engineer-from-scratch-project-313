@@ -1,4 +1,5 @@
-[![CI](https://github.com/Eduard-Ya/devops-engineer-from-scratch-project-313/actions/workflows/ci.yml/badge.svg)](https://github.com/Eduard-Ya/devops-engineer-from-scratch-project-313/actions/workflows/ci.yml)
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/Eduard-Ya/devops-engineer-from-scratch-project-313/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Eduard-Ya/devops-engineer-from-scratch-project-313/actions)
 
 # Python‑приложение
 
