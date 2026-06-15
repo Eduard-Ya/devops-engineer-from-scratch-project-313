@@ -3,6 +3,8 @@
 
 # Python‑приложение
 
+[https://devops-project-313.onrender.com](https://devops-project-313.onrender.com)
+
 # Требования
 
 - Python 3.8+
